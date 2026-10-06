@@ -49,7 +49,7 @@ Test sonuçları ekrana ve `sonuclar.txt` dosyasına yazılır. Hata bulunan dur
 | 3 | Sayfa kutusu toplam sayfadan büyük değeri kabul ediyor ("page 10 of 5", tablo boş) | Orta |
 | 4 | Son sayfada » butonu aktif kalıyor ve 6. sayfaya gidiyor | Orta |
 
-Manuel testte kayıt, giriş ve model sayfalarında bulunan 7 hata daha ile birlikte tüm bulgular, yeniden üretme adımları ve ekran görüntüleri [test raporunda](rapor/) yer almaktadır.
+Manuel testte kayıt, giriş ve model sayfalarında bulunan 7 hata daha ile birlikte tüm bulgular, yeniden üretme adımları ve ekran görüntüleri test raporunda yer almaktadır.
 
 ## Proje Yapısı
 
